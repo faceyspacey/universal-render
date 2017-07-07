@@ -1,0 +1,25 @@
+{
+  "name": "universal-render",
+  "version": "0.0.1",
+  "description": "universal rendering for React simplified yet flexible",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faceyspacey/universal-render.git"
+  },
+  "keywords": [
+    "react",
+    "universal",
+    "render",
+    "webpack"
+  ],
+  "author": "James Gillmore <james@faceyspacey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faceyspacey/universal-render/issues"
+  },
+  "homepage": "https://github.com/faceyspacey/universal-render#readme"
+}
